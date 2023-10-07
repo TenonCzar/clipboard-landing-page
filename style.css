@@ -162,10 +162,15 @@ button.mac {
     gap: 4rem;
     padding: 0 0 10rem;
 }
+.explained {
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+}
 .benefit1, .benefit2, .benefit3 {
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1rem;
 }
 
 .proposition2 img {
